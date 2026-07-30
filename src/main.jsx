@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { HashRouter, Routes, Route } from 'react-router-dom'
-import './app.css'
+import './App.css'
 import App from './pages/App.jsx'
 import Operaciones from './pages/Operaciones.jsx'
 import AcercaDe from './pages/AcercaDe.jsx'
